@@ -15,8 +15,7 @@ This project involves hardware setup and software integration.
 
 <h2>:scroll:  Project Illustrations</h2>
 
-
-<br>    
+   
 > Simulation circuit on **Proteus**.        
 <br>   
 <img src = "https://github.com/Akhilesh2002/Home-Automation-Using-8051/blob/main/Screenshots/1.jpg" >
