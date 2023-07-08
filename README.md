@@ -17,17 +17,32 @@ This project involves hardware setup and software integration.
 
 
 <br>    
-
-> Simulation output on **Picsimlab**.        
+> Simulation circuit on **Proteus**.        
 <br>   
-<img src="https://github.com/ShubhamGupta577/IoT-based-Home-Automation/blob/main/Screenshots/Output_1.png" alt="Illustration1"/>      
+<img src = "https://github.com/Akhilesh2002/Home-Automation-Using-8051/blob/main/Screenshots/1.jpg" >
 <br>
 
-> Blynk App Interface           
-<br>    
-<img align="left" width="380px" height="800px" src="https://github.com/ShubhamGupta577/IoT-based-Home-Automation/blob/main/Screenshots/Output_2.jpg">
-<img align="right" width="380px" height="800px" src="https://github.com/ShubhamGupta577/IoT-based-Home-Automation/blob/main/Screenshots/Output_3.jpg">
-<br>  
+> Bluetooth Interface App home page.        
+<br>   
+<img src = "https://github.com/Akhilesh2002/Home-Automation-Using-8051/blob/main/Screenshots/4.jpg" >
+<br>
+
+> Bluetooth Interface showing all lights are ON        
+<br>   
+<img src = "https://github.com/Akhilesh2002/Home-Automation-Using-8051/blob/main/Screenshots/2.jpg" >
+<br>
+
+> Bluetooth Interface showing all lights are OFF        
+<br>   
+<img src = "https://github.com/Akhilesh2002/Home-Automation-Using-8051/blob/main/Screenshots/3.jpg" >
+<br>
+
+> Hardware         
+<br>   
+<img src = "https://github.com/Akhilesh2002/Home-Automation-Using-8051/blob/main/Screenshots/5.jpg" >
+<br>
+
+[**Video Link**](https://drive.google.com/file/d/1BV57LgMAbqQBxaDcgMHVp7uFtMaFjziy/view?resourcekey)
 
  
 
