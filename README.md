@@ -1,1 +1,34 @@
-# Home-Automation-Using-8051
+# 🏠 Home Automation Using 8051 📱
+<h2>:memo:  About project</h2>
+This project demonstrates a home automation system implemented using an 8051 microcontroller, a Bluetooth module, and a Unity 3D interface. The goal is to provide a seamless control experience for home lighting through a 3D model representation of the room. The system allows users to interact with the 3D interface in Unity, manipulating virtual light switches that correspond to physical lights in the room. The Bluetooth module serves as the communication bridge between the microcontroller and the Unity interface.
+</br> <br>
+
+This project involves hardware setup and software integration.
+- **Hardware Setup** :- The hardware setup connects the 8051 microcontroller to a Bluetooth module, enabling wireless communication with the Unity interface. The microcontroller interfaces with the room's lighting system.
+- **Software Integration** :- The software integration involves creating a 3D model of the room in Unity, where virtual light switches correspond to physical lights. Users interact with the 3D interface to control the lights by toggling the virtual switches. Bluetooth commands are sent from Unity to the microcontroller, which controls the actual lights based on the user's input.
+
+<h2> 🛠️ Hardware Tools and Tech Stack</h2>
+
+- **Harware** :- 8051 Micro-Controller, Blueeoth Module (HC-05), Relays, AVR 8051 USB ASP ISP Programmer.
+- **Software** :- Proteus, Unity 3D, KEIL uVision, Prog ISP Flash Burner. 
+
+
+<h2>:scroll:  Project Illustrations</h2>
+
+
+<br>    
+
+> Simulation output on **Picsimlab**.        
+<br>   
+<img src="https://github.com/ShubhamGupta577/IoT-based-Home-Automation/blob/main/Screenshots/Output_1.png" alt="Illustration1"/>      
+<br>
+
+> Blynk App Interface           
+<br>    
+<img align="left" width="380px" height="800px" src="https://github.com/ShubhamGupta577/IoT-based-Home-Automation/blob/main/Screenshots/Output_2.jpg">
+<img align="right" width="380px" height="800px" src="https://github.com/ShubhamGupta577/IoT-based-Home-Automation/blob/main/Screenshots/Output_3.jpg">
+<br>  
+
+ 
+
+<!--[```Back to Top```](#)-->
