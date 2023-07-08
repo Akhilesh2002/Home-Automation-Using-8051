@@ -14,6 +14,7 @@ This project involves hardware setup and software integration.
 
 
 <h2>:scroll:  Project Illustrations</h2>
+
 [**Video Link**](https://drive.google.com/file/d/1BV57LgMAbqQBxaDcgMHVp7uFtMaFjziy/view?resourcekey)
    
 > Simulation circuit on **Proteus**.        
