@@ -1,6 +1,6 @@
 # 🏠 Home Automation Using 8051 📱
 <h2>:memo:  About project</h2>
-This project demonstrates a home automation system implemented using an 8051 microcontroller, a Bluetooth module, and a Unity 3D interface. The goal is to provide a seamless control experience for home lighting through a 3D model representation of the room. The system allows users to interact with the 3D interface in Unity, manipulating virtual light switches that correspond to physical lights in the room. The Bluetooth module serves as the communication bridge between the microcontroller and the Unity interface.
+This project demonstrates a home automation system implemented using an **8051 microcontroller**, a **Bluetooth module**, and a **Unity 3D interface**. The goal is to provide a seamless control experience for home lighting through a 3D model representation of the room. The system allows users to interact with the 3D interface in Unity, manipulating virtual light switches that correspond to physical lights in the room. The Bluetooth module serves as the communication bridge between the microcontroller and the Unity interface.
 </br> <br>
 
 This project involves hardware setup and software integration.
@@ -14,7 +14,7 @@ This project involves hardware setup and software integration.
 
 
 <h2>:scroll:  Project Illustrations</h2>
-
+[**Video Link**](https://drive.google.com/file/d/1BV57LgMAbqQBxaDcgMHVp7uFtMaFjziy/view?resourcekey)
    
 > Simulation circuit on **Proteus**.        
 <br>   
@@ -40,8 +40,6 @@ This project involves hardware setup and software integration.
 <br>   
 <img src = "https://github.com/Akhilesh2002/Home-Automation-Using-8051/blob/main/Screenshots/5.jpg" >
 <br>
-
-[**Video Link**](https://drive.google.com/file/d/1BV57LgMAbqQBxaDcgMHVp7uFtMaFjziy/view?resourcekey)
 
  
 
