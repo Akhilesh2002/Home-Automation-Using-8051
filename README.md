@@ -17,7 +17,6 @@ This project involves hardware setup and software integration.
 
 
 <br>    
-
 > Simulation circuit on **Proteus**.        
 <br>   
 <img src = "https://github.com/Akhilesh2002/Home-Automation-Using-8051/blob/main/Screenshots/1.jpg" >
@@ -43,7 +42,7 @@ This project involves hardware setup and software integration.
 <img src = "https://github.com/Akhilesh2002/Home-Automation-Using-8051/blob/main/Screenshots/5.jpg" >
 <br>
 
-
+[**Video Link**](https://drive.google.com/file/d/1BV57LgMAbqQBxaDcgMHVp7uFtMaFjziy/view?resourcekey)
 
  
 
